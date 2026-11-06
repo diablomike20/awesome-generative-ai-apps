@@ -1,3 +1,4 @@
+
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
@@ -85,7 +86,7 @@
       "root": "platforms/Free-AI-Social-Media-Scheduler",
       "framework": "nextjs"
     },
-    "client-2": {
+    "client-two": {
       "root": "platforms/Open-AI-Design-Agent/client",
       "framework": "nextjs"
     },
@@ -97,11 +98,11 @@
       "root": "platforms/Open-Generative-AI",
       "framework": "nextjs"
     },
-    "client-3": {
+    "client-three": {
       "root": "platforms/Open-Poe-AI/client",
       "framework": "nextjs"
     },
-    "server-2": {
+    "server-two": {
       "root": "platforms/Open-Poe-AI/server",
       "framework": "fastapi"
     },
@@ -153,15 +154,15 @@
       "root": "video_generation/AI-Youtube-Shorts-Generator",
       "framework": "fastapi"
     },
-    "client-4": {
+    "client-four": {
       "root": "video_generation/AI-Youtube-Shorts-Generator/client",
       "framework": "nextjs"
     },
-    "client-5": {
+    "client-five": {
       "root": "video_generation/Open-AI-Micro-Drama-Generator/client",
       "framework": "nextjs"
     },
-    "server-3": {
+    "server-three": {
       "root": "video_generation/Open-AI-Micro-Drama-Generator/server",
       "framework": "fastapi"
     },
