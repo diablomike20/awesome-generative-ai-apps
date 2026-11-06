@@ -1,13 +1,7 @@
-<p align="center">
-  <a href="https://twitter.com/matchaman11">
-    <img src="https://img.shields.io/badge/Follow%20on%20𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/anilmatcha/">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### One-Click Deploy
 
-<hr/>
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=diablomike20/awesome-generative-ai-apps)
+
 
 <div align="center">
 
