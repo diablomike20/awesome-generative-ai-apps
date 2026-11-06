@@ -63,7 +63,7 @@
     },
     "server_three": { "root": "video_generation/Open-AI-Micro-Drama-Generator/server", "framework": "fastapi" },
     "open_ai_ugc": { "root": "video_generation/Open-AI-UGC", "framework": "nextjs" },
-    "seedance_2_generator": { "root": "video_generation/seedance-2-generator", "framework": "nextjs" },
+    "seedance_two_generator": { "root": "video_generation/seedance-2-generator", "framework": "nextjs" },
     "veo_video_generator": { "root": "video_generation/veo4-video-generator", "framework": "nextjs" },
     "ai_resume_builder": { "root": "writing_content/ai-resume-builder", "framework": "nextjs" },
     "blogger_cms": { "root": "writing_content/blogger-cms", "framework": "nextjs" },
