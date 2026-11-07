@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "set NODE_OPTIONS=--max-old-space-size=4096 && next dev",
     "dev:turbo": "set NODE_OPTIONS=--max-old-space-size=4096 && next dev --turbo",
+    "prebuild": "npm run build:lib --prefix ..",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
